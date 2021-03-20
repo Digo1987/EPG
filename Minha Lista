@@ -1,1 +1,69 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Canal Aberto",Band 
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Canal Aberto", RecordTV Rio Grande do Sul 
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canal Aberto", Rede Globo RJ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Canal Aberto",SBT Rede Massa (PR) 
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Canal Aberto", TV Pampa - RedeTV! RS 
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="Canal Aberto", TVE RS 
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="Canal Gospel", Rede Super 
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="Canal Gospel", Novo Tempo 
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Canal Aberto", TV Cultura - TV Futuro (RJ) 
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="Canal Aberto",Catve - Cultura (PR) 
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="Canal Infantil", Kuriakos Kids 
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Canal Aberto", TV Brasil 2 
+https://video-rvd-df-2.rnp.br/live/ocp(t(FmB7Buopzo8)r(fVR9ug)a(s2w9ww)p(d(2xc)k(q8Q)m(7k54e9V7r_qHeav5Dr1DZg)n(a(aTxSjg)s(7fQ)'a(9-j8BA)s(l2s)))s(s(yTM)b(5CG3_QiEShCDwdFzmmQ8WNjEdSYui7GAlNrstrgkOS2-bA_ojueDtC8biA3pMC9TzpZvkqrCiyt0-jAKJA)'s(OKM)b(Vo7gbt0YdES3zR4yEFM0ztt9FfY98ko3AZu1vNUq-_5TTL6FvbG741Hn72ssjzmEuhH6jZP-EWm0F-XehnGVIDYMviZp-eQ8AIWDOe5V)'s(a0w)b(dOKsGEC-))m(0))/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sesctv_28201329.png" group-title="Canal Aberto", SescTV HD 
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/f39450b4-2e14-4454-b052-71971d56897f_index.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3f6171c551bfebb0226b4f7d526a8e6f.jpg" group-title="Canal Gospel",TV Gideoes https://streaming01.zas.media/gideoes/tv.smil/chunklist_w767586039_b1396000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="Canal Gospel", Rede Gospel https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="Canal Infantil", Gospel Cartoon https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="Canal Gospel", Gospel Movie TV https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0579c7a5ad75d73104244131bfb40921.png" group-title="Canal Gospel", Tv Avivando Nações https://video01.kshost.com.br/edinardo2448/edinardo2448/chunklist_w435496831.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/53d91293b5c5cef84ac28e3894b4a20e.png" group-title="Canal Gospel", Semear Tv https://novo.bitstreaming.info:1936/semeart
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-Q5sOJ4PVzOQ/AAAAAAAAAAI/AAAAAAAAAAA/xRYjOolBdu4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Rádios", Rádio Fé Para Vencer 
+https://servidor18.brlogic.com:7436/live?type=.m3u
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xw9LcYJ1lhQ/XRnFZSUxiQI/AAAAAAAAQ8o/PmzU169xey0_J5OdFGhy4Wkk-F69xa6zwCLcBGAs/s1600/radio-marumby-am-curitiba.jpg" group-title="Rádios", Rádio Marumby https://5a2b083e9f360.streamlock.net/marumbyaac/marumbyaac.stream/chunklist_w1296034675.m3u8
+
+
+
+
+
+
+ 
+
+
+
+
+
 
